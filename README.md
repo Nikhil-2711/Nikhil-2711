@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikhil-2711
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning web development and AI concepts
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m having interest in web development
 - 📫 How to reach me gmail: np588375@gmail.com
 
 <!---
